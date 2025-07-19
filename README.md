@@ -27,9 +27,10 @@
   ✅ 3. URL and URI Structure
     - Servlet mappings are based on URL patterns.
   
-  ```bash
+```bash
       http://localhost:8080/MyApp/hello
  ```
+
  - http: Protocol
  - localhost: Host (server)
  - 8080: Port
