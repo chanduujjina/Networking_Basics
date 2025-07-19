@@ -11,3 +11,19 @@
 - Understanding HTTP is critical because Servlets are HTTP-based.
 
   Request Methods:
+  - GET: To fetch data
+
+  - POST: To submit form/data
+
+  - PUT, DELETE, HEAD, etc.
+ 
+  ## Request-Response Cycle:
+  - Client sends a request: URL, headers, body
+  - Server (Servlet) processes and returns a response with:
+    - Status code (200, 404, 500, etc.)
+    - Headers
+    - Body (HTML, JSON, etc.)
+   
+  ✅ 3. URL and URI Structure
+    
+  
