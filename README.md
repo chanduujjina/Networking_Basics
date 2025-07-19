@@ -25,5 +25,8 @@
     - Body (HTML, JSON, etc.)
    
   ✅ 3. URL and URI Structure
-    
+    - Servlet mappings are based on URL patterns.
   
+  ```bash
+      http://localhost:8080/MyApp/hello
+ ```
